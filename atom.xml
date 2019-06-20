@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oliver-chen-page.github.io</id>
     <title>Gridea</title>
-    <updated>2019-06-20T06:47:50.360Z</updated>
+    <updated>2019-06-20T07:12:16.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oliver-chen-page.github.io"/>
     <link rel="self" href="https://oliver-chen-page.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://oliver-chen-page.github.io/images/avatar.png</logo>
     <icon>https://oliver-chen-page.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://oliver-chen-page.github.io/post/test</id>
+        <link href="https://oliver-chen-page.github.io/post/test">
+        </link>
+        <updated>2019-06-20T07:10:31.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1-123">1. 123</h1>
+<h2 id="213">213</h2>
+<pre><code>echo ====
+if [ a == 1 ]; then
+echo -1
+fi
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://oliver-chen-page.github.io/post/hello-gridea</id>
